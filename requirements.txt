@@ -1,0 +1,6 @@
+streamlit
+openai
+llama-index
+nltk
+pdfplumber
+docx2txt
